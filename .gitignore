@@ -1,0 +1,22 @@
+# Mac junk 
+.DS_Store 
+__MACOSX/ 
+ 
+# Python 
+__pycache__/ 
+*.pyc 
+venv/ 
+ 
+# ML models 
+models/*.pkl 
+ 
+# Database 
+*.db 
+ 
+# Secrets 
+*.env 
+frontend/dementia.env 
+ 
+# Dependencies 
+frontend/node_modules/ 
+frontend/dist/
